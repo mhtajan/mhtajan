@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmhtajan%2Fmhtajan&label=Total%20views&countColor=%23263759)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mhtajan&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhtajan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhtajan&langs_count=8](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mhtajan/mhtajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
