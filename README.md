@@ -3,8 +3,10 @@
 <br />
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mhtajan&show_icons=true&count_private=true)
 <br />
+
 ---
-###Tech & Tools Preference
+### Tech & Tools Preference
+
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
