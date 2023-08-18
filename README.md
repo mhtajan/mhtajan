@@ -1,8 +1,8 @@
 
 ### Welcome to my Github
 
-- 🔭 I'm currently working as a Backend API Developer for Trends and Technologies Inc.
-- 🌱 I’m currently learning Genesys Cloud
+- 🔭 I'm currently working as a Developer for Trends and Technologies Inc.
+- 🌱 I’m currently learning Ivanti ITAM/ITSM
 
 <br />
 
