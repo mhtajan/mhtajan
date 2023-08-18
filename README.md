@@ -37,7 +37,7 @@ Feel free to reach out for collaboration, discussions, or just to say hi!
 
 - 📫 Personal Email: marktajan@icloud.com
 - 📫 Work Email: mhtajan@trends.com.ph
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mhtajan/)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mhtajan/)
 
 ## GitHub Stats
 
