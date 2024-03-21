@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm a passionate Developer at Trends and Technologies Inc., where I work on cutting-edge projects that fuel my love for technology and innovation.
 
 - 🔭 I'm currently crafting solutions at Trends and Technologies Inc.
-- 🌱 I'm on a learning journey with Ivanti ITAM/ITSM to enhance my skills further.
 
 ## Tech Stack & Tools
 
