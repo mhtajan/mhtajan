@@ -1,8 +1,6 @@
 # Hi there, I'm Mark Geimil Tajan! 👋
 
-Welcome to my GitHub profile! I'm a passionate Developer at Trends and Technologies Inc., where I work on cutting-edge projects that fuel my love for technology and innovation.
-
-- 🔭 I'm currently crafting solutions at Trends and Technologies Inc.
+Welcome to my GitHub profile!
 
 ## Tech Stack & Tools
 
