@@ -20,7 +20,6 @@ Welcome to my GitHub profile!
 
 ## Projects and Achievements
 
-- 🚀 [Ivanti Middleware](https://github.com/mhtajan/ivanti-middleware): Brief description of the project and the technologies used.
 - 🏆 Achieved [Introduction to Back-End Development](https://www.coursera.org/account/accomplishments/certificate/6VSENEGL2MEY).
 - 🏆 Achieved [Operating Systems and You: Becoming a Power User](https://www.coursera.org/account/accomplishments/certificate/WQ54WTBNTN2Z).
 - 🏆 Achieved [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/verify/A9ZMCWPG4ZJN).
@@ -33,7 +32,6 @@ Welcome to my GitHub profile!
 Feel free to reach out for collaboration, discussions, or just to say hi!
 
 - 📫 Personal Email: marktajan@icloud.com
-- 📫 Work Email: mhtajan@trends.com.ph
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mhtajan/)
 
 ## GitHub Stats
