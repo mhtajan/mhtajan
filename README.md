@@ -20,10 +20,10 @@ Welcome to my GitHub profile!
 
 ## Certifications
 
-- 🏆 Achieved [ServiceNow Certified System Administrator]
-- 🏆 Achieved [Micro-Certification - Welcome to ServiceNow]
-- 🏆 Achieved [Micro-Certification - Performance Analytics]
-- 🏆 Achieved [Micro-Certification - Flow Designer]
+- 🏆 Achieved **ServiceNow Certified System Administrator**
+- 🏆 Achieved **Micro-Certification - Welcome to ServiceNow**
+- 🏆 Achieved **Micro-Certification - Performance Analytics**
+- 🏆 Achieved **Micro-Certification - Flow Designer**
 
 
 ## Let's Connect
