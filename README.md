@@ -18,14 +18,13 @@ Welcome to my GitHub profile!
 ![C & C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white)
 
-## Projects and Achievements
+## Certifications
 
-- 🏆 Achieved [Introduction to Back-End Development](https://www.coursera.org/account/accomplishments/certificate/6VSENEGL2MEY).
-- 🏆 Achieved [Operating Systems and You: Becoming a Power User](https://www.coursera.org/account/accomplishments/certificate/WQ54WTBNTN2Z).
-- 🏆 Achieved [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/verify/A9ZMCWPG4ZJN).
-- 🏆 Achieved [The Bits and Bytes of Computer Networking](https://www.coursera.org/account/accomplishments/verify/9YTTQWM9QGQ8).
-- 🏆 Achieved [HCIA Cloud Computing Course](https://ilearningx.huawei.com/portal/certificates/5ee054e226d94eabbe26c84f5de16ed5).
-- 🏆 Achieved [HCIA-5G Course](https://ilearningx.huawei.com/portal/certificates/fda01c89973049b79037e2c2ffcb1896).
+- 🏆 Achieved [ServiceNow Certified System Administrator]
+- 🏆 Achieved [Micro-Certification - Welcome to ServiceNow]
+- 🏆 Achieved [Micro-Certification - Performance Analytics]
+- 🏆 Achieved [Micro-Certification - Flow Designer]
+
 
 ## Let's Connect
 
