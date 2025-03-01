@@ -17,6 +17,7 @@ Feel free to reach out for collaboration, discussions, or just to say hi!
 - 🏆 Achieved **Micro-Certification - Performance Analytics**
 - 🏆 Achieved **Micro-Certification - Flow Designer**
 
+
 # Tech and tools 
 ## **🤖 Artificial Intelligence and Bots**
   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
