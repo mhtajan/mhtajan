@@ -1,48 +1,71 @@
 # Hi there, I'm Mark Geimil Tajan! 👋
 
-Welcome to my GitHub profile!
+**Senior Analyst & ServiceNow Developer** | **7x CIS | CAD | CSA**
 
-## Let's Connect
+Welcome to my GitHub profile! I specialize in enterprise platform development, custom application engineering, and workflow automation across the ServiceNow ecosystem.
 
-Feel free to reach out for collaboration, discussions, or just to say hi!
+---
 
-- 📫 Personal Email: marktajan@icloud.com
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mhtajan/)
-- [ServiceNow Resume](https://nowlearning.servicenow.com/lxp?id=nl_public&user=markgeimil897335)
+## 🛠️ About Me
 
-## Certifications
+* 💼 **Role:** Senior Analyst & ServiceNow Developer at Accenture
+* 🎯 **Specializations:** Application Development, ITOM (Discovery), ITSM, CSM, HRSD, SAM, CMDB/CSDM, and GenAI/Agentic AI implementations
+* 💻 **Tech Stack:** ServiceNow (JS/Glide, Workflows, UI Builder, Service Portal, Integration Hub), Node.js, Python, C#, Rust, Electron, Docker, Proxmox VE
 
-- 🏆 Achieved **Certified Implementation Specialist – IT Service Management (CIS-ITSM)**
-- 🏆 Achieved **Certified Implementation Specialist – Data Foundations (CMDB and CSDM) (CIS-DF (CMDB and CSDM))**
-- 🏆 Achieved **ServiceNow Certified Application Developer (CAD)**
-- 🏆 Achieved **ServiceNow Certified System Administrator (CSA)**
+---
 
-- 🏆 Achieved **Suite Certification - Now Assist for IT Service Management (ITSM) Pro Plus Suite**
-- 🏆 Achieved **Suite Certification - ITSM Professional**
-- 🏆 Achieved **Suite Certification - Data Foundations (CMDB and CSDM) Professional**
-- 🏆 Achieved **Suite Certification - Workflow Data Fabric (NEW)**
-- 🏆 Achieved **Suite Certification - Workplace Service Delivery**
-- 🏆 Achieved **Suite Certification - Workflow Data Fabric**
-- 🏆 Achieved **Suite Certification - Application Developer Core Skills Micro**
+## 📜 ServiceNow Credentials
 
-- 🏆 Achieved **Micro-Certification - Playbooks Advanced**
-- 🏆 Achieved **Micro-Certification - Agile and Test Management Implementation**
-- 🏆 Achieved **Micro-Certification – DevOps Change Velocity**
-- 🏆 Achieved **Now Assist Executive Micro Cert**
-- 🏆 Achieved **Micro-Certification - Playbooks Essentials**
-- 🏆 Achieved **Micro-Certification - UI Builder**
-- 🏆 Achieved **Suite Certification - Citizen Developer Core Skills Micro**
-- 🏆 Achieved **Micro-Certification - Introduction to App Engine Studio**
-- 🏆 Achieved **Micro-Certification - Agentic AI Executive**
-- 🏆 Achieved **Micro-Certification - CMDB Health**
-- 🏆 Achieved **Micro-Certification - Configure the CMDB**
-- 🏆 Achieved **Micro-Certification - Service Portal**
-- 🏆 Achieved **Micro-Certification - Automated Test Framework**
-- 🏆 Achieved **Micro-Certification - Platform Analytics**
-- 🏆 Achieved **Micro-Certification - Predictive Intelligence**
-- 🏆 Achieved **Micro-Certification - Virtual Agent	**
-- 🏆 Achieved **Micro-Certification - Integration Hub**
-- 🏆 Achieved **Micro-Certification - Flows**
-- 🏆 Achieved **Micro-Certification - Welcome to ServiceNow**
+### 🌟 Mainline Certifications
+* **CIS – Discovery** (CIS-DISCO)
+* **CIS – Software Asset Management** (CIS-SAM)
+* **CIS – Customer Service Management** (CIS-CSM)
+* **CIS – Human Resources** (CIS-HR)
+* **CIS – IT Service Management** (CIS-ITSM)
+* **CIS – Data Foundations** (CMDB & CSDM) (CIS-DF)
+* **Certified Application Developer** (CAD)
+* **Certified System Administrator** (CSA)
 
+<details>
+<summary><b>🏆 Suite Certifications (17)</b></summary>
 
+* Suite Certification - FSO Insurance Professional
+* Suite Certification - Public Sector Digital Services (PSDS)
+* Suite Certification - CSM Professional
+* Suite Certification - Now Assist for CSM Pro Plus
+* Suite Certification - Healthcare and Life Sciences Management Professional
+* Suite Certification - FSO Banking and Wealth Management Professional
+* Suite Certification - Enterprise Architecture
+* Suite Certification - HR Professional
+* Suite Certification - Now Assist for HR Service Delivery Pro Plus
+* Suite Certification - ITSM Professional
+* Suite Certification - Now Assist for ITSM Pro Plus
+* Suite Certification - Data Foundations (CMDB and CSDM) Professional
+* Suite Certification - Workflow Data Fabric
+* Suite Certification - Workplace Service Delivery
+* Suite Certification - Application Developer Core Skills Micro
+* Suite Certification - Citizen Developer Core Skills Micro
+</details>
+
+<details>
+<summary><b>🏅 Micro-Certifications (18)</b></summary>
+
+* Playbooks Advanced & Essentials
+* Agentic AI Executive & Now Assist Executive
+* Agile and Test Management Implementation
+* DevOps Change Velocity
+* UI Builder & App Engine Studio
+* CMDB Health & CMDB Configuration
+* Service Portal & Automated Test Framework (ATF)
+* Platform Analytics & Predictive Intelligence
+* Virtual Agent, Integration Hub, & Flows
+* Welcome to ServiceNow
+</details>
+
+---
+
+## 📫 Connect & Verify
+
+* 💼 **LinkedIn:** [linkedin.com/in/mhtajan](https://www.linkedin.com/in/mhtajan/)
+* 🎓 **ServiceNow Credentials:** [Now Learning Profile](https://nowlearning.servicenow.com/lxp?id=nl_public&user=markgeimil897335)
+* ✉️ **Email:** [marktajan@icloud.com](mailto:marktajan@icloud.com)
